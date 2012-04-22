@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttons</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<string>[ALT+F1]</string>
+			<key>image</key>
+			<string>ubuntu.png</string>
+			<key>text</key>
+			<string>Menu</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>[ALT+F2,KEYBOARD]</string>
+			<key>image</key>
+			<string>run.png</string>
+			<key>text</key>
+			<string>Run</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>[CTRL+ALT+d]</string>
+			<key>image</key>
+			<string>showdesktop.png</string>
+			<key>text</key>
+			<string>Show Desktop</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>[LOGINS]</string>
+			<key>image</key>
+			<string>lock.png</string>
+			<key>text</key>
+			<string>Logins</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>[MACROS]</string>
+			<key>image</key>
+			<string>actions.png</string>
+			<key>text</key>
+			<string>Macros</string>
+		</dict>
+	</array>
+</dict>
+</plist>

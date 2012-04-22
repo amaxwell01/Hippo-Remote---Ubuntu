@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>Left Workspace</string>
+		<key>action</key>
+		<string>[CTRL+ALT+LEFT]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Right Workspace</string>
+		<key>action</key>
+		<string>[CTRL+ALT+RIGHT]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Upper Workspace</string>
+		<key>action</key>
+		<string>[CTRL+ALT+UP]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Lower Workspace</string>
+		<key>action</key>
+		<string>[CTRL+ALT+DOWN]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Move Window Left</string>
+		<key>action</key>
+		<string>[CTRL+SHIFT+ALT+LEFT]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Move Window Right</string>
+		<key>action</key>
+		<string>[CTRL+SHIFT+ALT+RIGHT]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Move Window Up</string>
+		<key>action</key>
+		<string>[CTRL+SHIFT+ALT+UP]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Move Window Down</string>
+		<key>action</key>
+		<string>[CTRL+SHIFT+ALT+DOWN]</string>
+	</dict>
+</array>
+</plist>
